@@ -1,0 +1,96 @@
+.label {
+    -fx-font-family: 'Consolas', monospace; /* Используем шрифт Consolas */
+    -fx-font-size: 20px;
+    -fx-text-fill: limegreen; /* Цвет текста */
+    -fx-padding: 5px;
+}
+
+.button {
+    -fx-font-family: 'Consolas', monospace; /* Используем шрифт Consolas */
+    -fx-font-size: 14px;
+    -fx-text-fill: limegreen; /* Цвет текста */
+    -fx-background-color: #333; /* Темно-серый цвет фона */
+
+    -fx-background-radius: 20px; /* Радиус закругления углов */
+    -fx-padding: 5px 10px;
+}
+
+.button:hover {
+    -fx-background-color: #444; /* Темно-серый цвет фона при наведении */
+}
+
+.button:pressed {
+    -fx-background-color: #222; /* Еще более темный серый фон при нажатии */
+}
+
+.text-field {
+    -fx-font-family: 'Consolas', monospace; /* Используем шрифт Consolas */
+    -fx-font-size: 14px;
+    -fx-text-fill: limegreen; /* Цвет текста */
+    -fx-background-color: #333; /* Темно-серый цвет фона */
+    -fx-border-color: limegreen; /* Цвет границы */
+    -fx-padding: 5px;
+}
+
+.text-field:hover {
+    -fx-background-color: #444; /* Темно-серый цвет фона при наведении */
+}
+
+.text-field:focused {
+    -fx-border-color: limegreen; /* Цвет границы при фокусе */
+}
+
+.text-field:disabled {
+    -fx-opacity: 0.5; /* Уменьшаем прозрачность при отключении */
+}
+
+
+.checkbox {
+    -fx-font-family: 'Consolas', monospace; /* Используем шрифт Consolas */
+    -fx-font-size: 14px;
+    -fx-text-fill: limegreen; /* Цвет текста */
+}
+
+.checkbox .box {
+    -fx-background-color: #333; /* Темно-серый цвет фона */
+    -fx-border-color: limegreen; /* Цвет границы */
+    -fx-border-radius: 5px; /* Закругляем углы границы */
+}
+
+.checkbox .box:hover {
+    -fx-background-color: #444; /* Темно-серый цвет фона при наведении */
+}
+
+.checkbox .box:selected {
+    -fx-background-color: limegreen; /* Зеленый цвет фона при выборе */
+    -fx-border-color: limegreen; /* Зеленый цвет границы при выборе */
+}
+.check-box {
+    -fx-font-family: 'Consolas', monospace; /* Используем шрифт Consolas */
+    -fx-font-size: 14px;
+}
+
+.check-box .box {
+    -fx-background-color: transparent; /* Прозрачный фон */
+    -fx-border-color: limegreen; /* Цвет границы */
+    -fx-border-radius: 5px; /* Закругление углов */
+}
+
+.check-box .box:selected {
+    -fx-background-color: limegreen; /* Цвет фона при выборе */
+}
+
+.check-box:hover .box:selected {
+    -fx-background-color: lime; /* Цвет фона при наведении на выбранный флажок */
+}
+
+.check-box:hover .box {
+    -fx-border-color: lime; /* Цвет границы при наведении */
+}
+
+
+
+
+
+
+

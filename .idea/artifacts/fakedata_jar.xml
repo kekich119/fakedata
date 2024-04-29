@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fakedata:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fakedata_jar</output-path>
+    <root id="archive" name="fakedata.jar">
+      <element id="module-output" name="fakedata" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/21/javafx-graphics-21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/21/javafx-fxml-21-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/21/javafx-base-21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/javafaker/javafaker/0.15/javafaker-0.15.jar" path-in-jar="/" />
+      <element id="library" level="project" name="javafx-sdk-22.0" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/21/javafx-base-21-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/21/javafx-fxml-21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.20/snakeyaml-1.20-android.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/21/javafx-controls-21-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Загрузки/snakeyaml-1.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/21/javafx-graphics-21-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/dk/brics/automaton/automaton/1.11-8/automaton-1.11-8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.29/snakeyaml-1.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources/META-INF" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/github/mifmif/generex/1.0.2/generex-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/Загрузки/javafaker-0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/21/javafx-controls-21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/lib" />
+      <element id="module-source" name="fakedata" />
+      <element id="library" level="project" name="lib" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../Program Files/Java/javafx-sdk-22.0.1/src.zip" path-in-jar="/" />
+      <element id="library" level="project" name="META-INF" />
+    </root>
+  </artifact>
+</component>

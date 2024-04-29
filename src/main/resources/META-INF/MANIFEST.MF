@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Main-Class: com.example.fakedata.Launch
+Class-Path: C:\Users\Платон\IdeaProjects\fakedata\src\main\java\com\example\fakedata com.example.fakedata.Launch
+            C:\Program Files\Java\javafx-sdk-22.0.1\lib\javafx.base.jar
+            C:\Program Files\Java\javafx-sdk-22.0.1\lib\javafx.controls.jar
+            C:\Program Files\Java\javafx-sdk-22.0.1\lib\javafx.fxml.jar
+            C:\Program Files\Java\javafx-sdk-22.0.1\lib\javafx.graphics.jar
+            C:\Program Files\Java\javafx-sdk-22.0.1\lib\javafx.media.jar
+            C:\Program Files\Java\javafx-sdk-22.0.1\lib\javafx.swing.jar
+            C:\Program Files\Java\javafx-sdk-22.0.1\lib\javafx.web.jar
+
+

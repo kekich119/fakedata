@@ -1,0 +1,24 @@
+.check-box {
+    -fx-font-family: 'Consolas', monospace; /* Используем шрифт Consolas */
+    -fx-font-size: 14px;
+    -fx-font-color: limegreen;
+}
+
+.check-box .box {
+    -fx-background-color: transparent; /* Прозрачный фон */
+    -fx-border-color: limegreen; /* Цвет границы */
+    -fx-border-radius: 5px; /* Закругление углов */
+}
+
+.check-box .box:selected {
+    -fx-background-color: limegreen; /* Цвет фона при выборе */
+}
+
+.check-box:hover .box:selected {
+    -fx-background-color: lime; /* Цвет фона при наведении на выбранный флажок */
+}
+
+.check-box:hover .box {
+    -fx-border-color: lime; /* Цвет границы при наведении */
+}
+
